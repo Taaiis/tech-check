@@ -11,7 +11,7 @@ Este projeto foi construído para praticar e consolidar conceitos essenciais de 
 - **Entrada e Saída Interativa:** Captura e validação de escolhas do usuário via terminal (`printf` e `scanf`).
 - **Árvore de Decisão Interativa:** Uso de estruturas condicionais aninhadas (`if` / `else if`) para ramificar diagnósticos com base em respostas anteriores.
 - **Resolução de Problemas:** Transformação de um processo real de manutenção de computadores em um algoritmo estruturado.
-
+   
 ---
 
 ## 🌳 Fluxo do Diagnóstico
@@ -42,8 +42,6 @@ Compilador Recomendado: GCC / Clang / MSVC
  Implementar loop de repetição (while) para permitir múltiplos testes.
  Exportar o resultado final do diagnóstico para um arquivo de texto (.txt).
 
-iagnósticos com base em respostas anteriores.
-- **Resolução de Problemas:** Transformação de um processo real de manutenção de computadores em um algoritmo estruturado.
 ---
 
 👤 Autor
