@@ -42,6 +42,8 @@ Compilador Recomendado: GCC / Clang / MSVC
  Implementar loop de repetição (while) para permitir múltiplos testes.
  Exportar o resultado final do diagnóstico para um arquivo de texto (.txt).
 
+iagnósticos com base em respostas anteriores.
+- **Resolução de Problemas:** Transformação de um processo real de manutenção de computadores em um algoritmo estruturado.
 ---
 
 👤 Autor
