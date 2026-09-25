@@ -31,9 +31,24 @@ Este projeto foi construído para praticar e consolidar conceitos essenciais de 
 ---
 
 🛠️ Tecnologias Utilizadas
-Linguagem: C
+Linguagem: C (C99 / C11)
 Biblioteca Padrão: <stdio.h>
 Compilador Recomendado: GCC / Clang / MSVC
+
+🚀 Como Executar
+1. Clonar o repositório
+bash
+
+git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+cd SEU_REPOSITORIO
+
+2. Compilar o código
+bash
+gcc main.c -o techcheck
+
+3. Rodar a aplicação
+Linux/macOS: ./techcheck
+Windows: techcheck.exe
 
 ---
 
