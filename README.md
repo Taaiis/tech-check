@@ -28,17 +28,21 @@ Este projeto foi construído para praticar e consolidar conceitos essenciais de 
 [ Problema no SO ]   [ Problema na placa ]
 [   ou HD/SSD    ]   [ de vídeo/mãe      ]
 
+---
 
 🛠️ Tecnologias Utilizadas
 Linguagem: C
 Biblioteca Padrão: <stdio.h>
 Compilador Recomendado: GCC / Clang / MSVC
 
+---
+
 🔮 Futuras Melhorias (Roadmap)
  Adicionar mais perguntas de diagnóstico (ex: barulhos no cooler, bip da placa-mãe).
  Implementar loop de repetição (while) para permitir múltiplos testes.
  Exportar o resultado final do diagnóstico para um arquivo de texto (.txt).
 
+---
 
 👤 Autor
 Desenvolvido por Taís Pereira
