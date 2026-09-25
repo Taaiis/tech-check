@@ -12,7 +12,7 @@ Este projeto foi construído para praticar e consolidar conceitos essenciais de 
 - **Árvore de Decisão Interativa:** Uso de estruturas condicionais aninhadas (`if` / `else if`) para ramificar diagnósticos com base em respostas anteriores.
 - **Resolução de Problemas:** Transformação de um processo real de manutenção de computadores em um algoritmo estruturado.
    
----
+***
 
 ## 🌳 Fluxo do Diagnóstico
 
@@ -28,7 +28,7 @@ Este projeto foi construído para praticar e consolidar conceitos essenciais de 
 [ Problema no SO ]   [ Problema na placa ]
 [   ou HD/SSD    ]   [ de vídeo/mãe      ]
 
----
+***
 
 🛠️ Tecnologias Utilizadas
 Linguagem: C (C99 / C11)
@@ -50,14 +50,14 @@ gcc main.c -o techcheck
 Linux/macOS: ./techcheck
 Windows: techcheck.exe
 
----
+***
 
 🔮 Futuras Melhorias (Roadmap)
  Adicionar mais perguntas de diagnóstico (ex: barulhos no cooler, bip da placa-mãe).
  Implementar loop de repetição (while) para permitir múltiplos testes.
  Exportar o resultado final do diagnóstico para um arquivo de texto (.txt).
 
----
+***
 
 👤 Autor
 Desenvolvido por Taís Pereira
